@@ -38,7 +38,10 @@ Specifications:
 ## Notebooks
 
 DataSet Filtering: https://www.kaggle.com/code/bandrewensinger/spectrogramclassifer24x256
+
 AutoEncoder Model Training: https://www.kaggle.com/code/bandrewensinger/spectrogramae-training-dataset-encoding
-FlowMatching Model Training: https://www.kaggle.com/code/bandrewensinger/guided-flow-matching-spectrograms/edit
+
+FlowMatching Model Training: https://www.kaggle.com/code/bandrewensinger/guided-flow-matching-spectrograms
+
 
 
